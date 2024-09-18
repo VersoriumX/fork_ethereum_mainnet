@@ -1,7 +1,7 @@
 const Web3 = require('web3');
 const { daiAbi } = require('./abi.js');
 
-const recipientAddress = '0x02d6190C22293e010846B439787d304668783885';
+  const recipientAddress = '0x02d6190C22293e010846B439787d304668783885';
 const unlockedAddress = '0x5777d92f208679DB4b9778590Fa3CAB3aC9e2168';
 const daiAddress = '0x6B175474E89094C44Da98b954EedeAC495271d0F';
 
