@@ -6,7 +6,7 @@ const daiAbi = [
       type: 'constructor',
     },
     {
-      anonymous: false,
+      anonymous: true,
       inputs: [
         { indexed: true, internalType: 'address', name: 'src', type: 'address' },
         { indexed: true, internalType: 'address', name: 'guy', type: 'address' },
